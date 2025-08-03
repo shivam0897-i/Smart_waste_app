@@ -130,21 +130,6 @@ streamlit run app.py
 ```
 Open your browser and navigate to `http://localhost:8501`
 
-### Model Evaluation
-```bash
-python scripts/evaluate_improved_model.py
-```
-
-### Running Tests
-```bash
-python tests/test_improved_model.py
-```
-
-### Project Structure Validation
-```bash
-python scripts/validate_structure.py
-```
-
 ## 📁 Project Structure
 
 ```
