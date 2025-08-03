@@ -160,11 +160,6 @@ WasteManagement/
 │   ├── utils.py                       # Helper functions
 │   ├── visualizer.py                  # Visualization tools
 │   └── __init__.py                    # Package initialization
-├── 🔍 scripts/                        # Evaluation & analysis tools
-│   ├── evaluate_improved_model.py     # Comprehensive model evaluation
-│   └── validate_structure.py          # Project structure validation
-├── 🧪 tests/                          # Testing suite
-│   └── test_improved_model.py         # Model testing framework
 ├── 📊 results/                        # Model outputs & visualizations
 │   ├── confusion_matrix.png           # Performance metrics
 │   └── training_history.png           # Training progress charts
@@ -172,7 +167,6 @@ WasteManagement/
 │   └── data/                          # Organized train/test splits
 │       ├── train/                     # Training images by category
 │       └── test/                      # Testing images by category
-└── 📚 docs/                           # Additional documentation
 ```
 
 ## 🎯 Waste Categories
@@ -238,24 +232,8 @@ For production deployment, consider:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **TrashNet Dataset**: Original dataset for waste classification
-- **TensorFlow Team**: For the excellent deep learning framework
-- **Streamlit Team**: For the intuitive web app framework
-- **ResNet Authors**: For the foundational architecture
-
-## 📞 Contact
-
-For questions, suggestions, or collaboration opportunities, please reach out through:
-- **GitHub Issues**: For bug reports and feature requests
-- **Email**: [Your email here]
-- **LinkedIn**: [Your LinkedIn profile]
-
----
 
 **🌍 Making waste management smarter, one classification at a time! ♻️**
