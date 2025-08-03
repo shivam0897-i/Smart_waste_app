@@ -88,15 +88,16 @@ This project implements an intelligent waste classification system that can auto
 
 ### Dependencies
 ```
-tensorflow>=2.20.0
-streamlit>=1.47.0
-numpy>=1.21.0
-pandas>=1.3.0
-matplotlib>=3.5.0
-seaborn>=0.11.0
-pillow>=8.3.0
-scikit-learn>=1.0.0
-plotly>=5.0.0
+tensorflow>=2.20.0         # Deep learning framework
+streamlit>=1.47.0          # Web framework for interactive apps
+numpy>=1.21.0              # Numerical computations
+pandas>=1.3.0              # Data manipulation and analysis
+matplotlib>=3.5.0          # Basic plotting library
+seaborn>=0.11.0            # Statistical data visualization
+pillow>=8.3.0              # Image processing
+scikit-learn>=1.0.0        # Machine learning utilities
+plotly>=5.0.0              # Interactive plotting library
+
 ```
 
 ## 🛠️ Installation
